@@ -1,0 +1,16 @@
+{
+  "name": "video-url-fetcher",
+  "version": "1.0.0",
+  "description": "A simple Node.js server to fetch Google video URLs using Puppeteer.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.0.0" // This version may vary
+  }
+}
